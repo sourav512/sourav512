@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <a href="https://github.com/sourav512"><strong>@sourav512</strong></a>
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning <strong>MERN</strong> stack
+- 🌱 Brushing up my skills in <strong>[MERN, SPRING-BOOT, PYTHON]</strong> stack
 - 💞️ I’m looking to collaborate on <a href="https://github.com/sourav512"><strong>GitHub</strong></a>
 - 📫 Reach me <a href="https://www.linkedin.com/in/sourav-kumar-a49092194">here</a>
 
